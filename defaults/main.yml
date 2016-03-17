@@ -1,2 +1,4 @@
 ---
 # defaults file for vitalied.ssh
+
+ssh_permit_root_login: 'no'
