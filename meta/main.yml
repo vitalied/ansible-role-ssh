@@ -1,0 +1,16 @@
+---
+
+galaxy_info:
+  author: vitalied
+  description: Ansible Role for SSH Management.
+  license: MIT
+  min_ansible_version: 2.1
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
+        - trusty
+  galaxy_tags:
+    - system
+
+dependencies: []
