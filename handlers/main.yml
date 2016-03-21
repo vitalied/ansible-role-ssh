@@ -1,2 +1,7 @@
 ---
 # handlers file for vitalied.ssh
+
+- name: restart ssh
+  service:
+    name: ssh
+    state: restarted
